@@ -1,0 +1,25 @@
+{
+	"name": "even-ha",
+	"version": "1.0.0",
+	"description": "It is npm package that check given number even or not",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/k23raj/even-ha.git"
+	},
+	"keywords": [
+		"even",
+		"odd",
+		"number"
+	],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/k23raj/even-ha/issues"
+	},
+	"homepage": "https://github.com/k23raj/even-ha#readme"
+}
